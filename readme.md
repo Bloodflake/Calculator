@@ -1,5 +1,5 @@
 # Calculator WebApp
-This repo contain code of simple Addition Calculator.
+This repo contain code of simple Addition Calculator and BMI Calculator.
 
 ## Description
 This Repo is for learning working of Nodejs and Express.
